@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/admin/CLionProjects/DungeonCrawl/dungeon_crawl.cpp" "/Users/admin/CLionProjects/DungeonCrawl/cmake-build-debug/CMakeFiles/DungeonCrawl.dir/dungeon_crawl.cpp.o"
   "/Users/admin/CLionProjects/DungeonCrawl/main.cpp" "/Users/admin/CLionProjects/DungeonCrawl/cmake-build-debug/CMakeFiles/DungeonCrawl.dir/main.cpp.o"
+  "/Users/admin/CLionProjects/DungeonCrawl/test.cpp" "/Users/admin/CLionProjects/DungeonCrawl/cmake-build-debug/CMakeFiles/DungeonCrawl.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

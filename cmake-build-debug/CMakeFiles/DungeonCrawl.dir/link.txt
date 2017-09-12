@@ -1,1 +1,1 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/DungeonCrawl.dir/main.cpp.o CMakeFiles/DungeonCrawl.dir/dungeon_crawl.cpp.o  -o DungeonCrawl 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/DungeonCrawl.dir/main.cpp.o CMakeFiles/DungeonCrawl.dir/dungeon_crawl.cpp.o CMakeFiles/DungeonCrawl.dir/test.cpp.o  -o DungeonCrawl 

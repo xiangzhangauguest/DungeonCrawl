@@ -88,6 +88,9 @@
 		<Unit filename="/Users/admin/CLionProjects/DungeonCrawl/main.cpp">
 			<Option target="DungeonCrawl"/>
 		</Unit>
+		<Unit filename="/Users/admin/CLionProjects/DungeonCrawl/test.cpp">
+			<Option target="DungeonCrawl"/>
+		</Unit>
 		<Unit filename="/Users/admin/CLionProjects/DungeonCrawl/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

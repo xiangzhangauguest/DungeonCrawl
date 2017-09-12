@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/DungeonCrawl.dir/main.cpp.o"
   "CMakeFiles/DungeonCrawl.dir/dungeon_crawl.cpp.o"
+  "CMakeFiles/DungeonCrawl.dir/test.cpp.o"
   "DungeonCrawl.pdb"
   "DungeonCrawl"
 )
